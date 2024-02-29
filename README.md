@@ -1,2 +1,1 @@
-I like using Git.
-The more I practice making commits, the better I work in Git.
+I like using Git, since the more I practice, the better I work in Git.
