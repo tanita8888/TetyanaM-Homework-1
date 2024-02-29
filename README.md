@@ -1,1 +1,1 @@
-I am currently adding this text to practice using Git.
+I am changing the text to make a new commit.
